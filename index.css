@@ -1,0 +1,14 @@
+h1 {
+    color: blue;
+    font-family: verdana;
+    font-size: 200%;
+  }
+  p {
+    color: red;
+    font-family: courier;
+    font-size: 100%;
+  }
+  h2{
+      color: dodgerblue;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+  }
